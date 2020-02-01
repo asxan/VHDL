@@ -1,0 +1,10 @@
+|lab_02_part_3
+x[1] => y1.IN0
+x[2] => y1.IN1
+x[3] => y1.IN1
+x[3] => y1.IN1
+x[4] => y1.IN0
+x[5] => y1.IN1
+y1 <= y1.DB_MAX_OUTPUT_PORT_TYPE
+
+

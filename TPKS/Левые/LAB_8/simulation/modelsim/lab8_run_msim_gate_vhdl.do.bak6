@@ -1,0 +1,17 @@
+transcript on
+if {[file exists gate_work]} {
+	vdel -lib gate_work -all
+}
+vlib gate_work
+vmap work gate_work
+
+vcom -93 -work work {lab8.vho}
+
+vcom -93 -work work {C:/Users/Veronika/Desktop/AE/LAB_8/programm_tb.vhd}
+
+vsim -t 1ps +transport_int_delays +transport_path_delays -sdftyp /NA=lab8_vhd.sdo -L cycloneii -L gate_work -L work -voptargs="+acc"  programm_tb
+
+add wave *
+view structure
+view signals
+run 3000 ps

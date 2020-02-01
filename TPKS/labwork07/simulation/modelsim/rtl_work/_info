@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\TPCS\Lab7_Klimov\simulation\modelsim
+Eautomat
+Z1 w1559410031
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\TPCS\Lab7_Klimov\simulation\modelsim
+Z5 8D:/TPCS/Lab7_Klimov/Automat.vhd
+Z6 FD:/TPCS/Lab7_Klimov/Automat.vhd
+l0
+L11
+V@3U@f4IE0B>1:AcmI^fRF0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1559410601.466000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/TPCS/Lab7_Klimov/Automat.vhd|
+Z10 !s107 D:/TPCS/Lab7_Klimov/Automat.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 43nSi?iJjn=VT1C<YcjaB1
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 7 automat 0 22 @3U@f4IE0B>1:AcmI^fRF0
+l30
+L22
+V>4;a9_ef_;GA8Z[KzcRW?2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 o5L1JTemmB`HQ6]Y?^VFJ2
+!i10b 1
+Etb_automat
+Z13 w1559410565
+R2
+R3
+R4
+Z14 8D:/TPCS/Lab7_Klimov/tb_automat.vhd
+Z15 FD:/TPCS/Lab7_Klimov/tb_automat.vhd
+l0
+L4
+VcmTG2ehHS>l9@GTGX_>Ym1
+!s100 ml9_kH8M92Jj4ELJ1U@TH2
+R7
+31
+!i10b 1
+Z16 !s108 1559410601.784000
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/TPCS/Lab7_Klimov/tb_automat.vhd|
+Z18 !s107 D:/TPCS/Lab7_Klimov/tb_automat.vhd|
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 10 tb_automat 0 22 cmTG2ehHS>l9@GTGX_>Ym1
+l20
+L7
+VVl=:FS9IQ9`A[34=UhcFb0
+!s100 >4;;]?_aP1oL<@4MH<kfk0
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\Desktop\TPKS\lab_02\Solution\lab_02_part_1\simulation\modelsim
+Elab_02_part_1
+Z1 w1554649799
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\ASUS\Desktop\TPKS\lab_02\Solution\lab_02_part_1\simulation\modelsim
+Z5 8C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1.vhd
+Z6 FC:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1.vhd
+l0
+L4
+V>5I@UbVd:bj8f2k8bg?OZ3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1554650951.255000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1.vhd|
+Z10 !s107 C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 Kl5jSnN=Fj>^05BGSm?[c2
+!i10b 1
+Alab_02_part_1_arch
+R2
+R3
+DEx4 work 13 lab_02_part_1 0 22 >5I@UbVd:bj8f2k8bg?OZ3
+l10
+L9
+VlnjCmQ=b@onaeEGeebe6Q1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 GS_9JLjfclGi0e2XaAzRl2
+!i10b 1
+Elab_02_part_1_tb
+Z13 w1552679452
+R2
+R3
+R4
+Z14 8C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1_tb.vhd
+Z15 FC:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1_tb.vhd
+l0
+L4
+Vb4Z3a?mIae<cChzV?4O^R2
+!s100 ZUZ5UI3Ma60g=NCZS_c6`1
+R7
+31
+!i10b 1
+Z16 !s108 1554650952.216000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1_tb.vhd|
+Z18 !s107 C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_1/lab_02_part_1_tb.vhd|
+R11
+R12
+Alab_02_part_1_tb_arch
+R2
+R3
+DEx4 work 16 lab_02_part_1_tb 0 22 b4Z3a?mIae<cChzV?4O^R2
+l15
+L7
+V5LKF<6GB;=8hjX9jaHHJ]0
+!s100 MCLZ=QWCL7zHgC=ceTn7R2
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

@@ -1,0 +1,299 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\Desktop\TPKS\LAB_8\simulation\modelsim
+Eaddition
+Z1 w1557600933
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\ASUS\Desktop\TPKS\LAB_8\simulation\modelsim
+Z6 8C:/Users/ASUS/Desktop/TPKS/LAB_8/addition.vhd
+Z7 FC:/Users/ASUS/Desktop/TPKS/LAB_8/addition.vhd
+l0
+L5
+VL@DXRzjAfezo38z3IOgOH1
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1559173008.496000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/addition.vhd|
+Z11 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/addition.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 dKIHY:Hl8<^6AkCAi`<U<3
+!i10b 1
+Aarchitec_addition
+R2
+R3
+R4
+DEx4 work 8 addition 0 22 L@DXRzjAfezo38z3IOgOH1
+l16
+L15
+VzWJRSJnO@2:PUe==aMYgA3
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 XA?eNR95PFYSl?REQQmWR3
+!i10b 1
+Edecriment
+Z14 w1557608384
+R2
+R3
+R4
+R5
+Z15 8C:/Users/ASUS/Desktop/TPKS/LAB_8/decriment.vhd
+Z16 FC:/Users/ASUS/Desktop/TPKS/LAB_8/decriment.vhd
+l0
+L5
+VHCdd]gF0R260;D@1TAg6]0
+R8
+31
+Z17 !s108 1559173006.615000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/decriment.vhd|
+Z19 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/decriment.vhd|
+R12
+R13
+!s100 VDRB=LGkLA<9`KE4Cc>Q^1
+!i10b 1
+Aarchit_decriment
+R2
+R3
+R4
+DEx4 work 9 decriment 0 22 HCdd]gF0R260;D@1TAg6]0
+l15
+L14
+Vhgm3k1:PVEoC_BHNIC[0l1
+R8
+31
+R17
+R18
+R19
+R12
+R13
+!s100 ICHjd?P=TnNa?QB3Q5`Ko1
+!i10b 1
+Edivision
+Z20 w1557606880
+R2
+R3
+R4
+R5
+Z21 8C:/Users/ASUS/Desktop/TPKS/LAB_8/division.vhd
+Z22 FC:/Users/ASUS/Desktop/TPKS/LAB_8/division.vhd
+l0
+L5
+VjUD<@Nhz5H6l4`mG5de;C2
+R8
+31
+Z23 !s108 1559173009.642000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/division.vhd|
+Z25 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/division.vhd|
+R12
+R13
+!s100 KU`9chgGCZRREaFR5UH5^1
+!i10b 1
+Aarchitec_division
+R2
+R3
+R4
+DEx4 work 8 division 0 22 jUD<@Nhz5H6l4`mG5de;C2
+l16
+L15
+VbeE8Rj<c0ARTU<e[@TCRC2
+R8
+31
+R23
+R24
+R25
+R12
+R13
+!s100 8`_mfUUd51A1k=Y2A:bW81
+!i10b 1
+Emultiplexer
+Z26 w1557951954
+R3
+R4
+R5
+Z27 8C:/Users/ASUS/Desktop/TPKS/LAB_8/multiplexer.vhd
+Z28 FC:/Users/ASUS/Desktop/TPKS/LAB_8/multiplexer.vhd
+l0
+L3
+VALBBlZ_15h9MF4X<l3kCY1
+R8
+31
+Z29 !s108 1559173009.094000
+Z30 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/multiplexer.vhd|
+Z31 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/multiplexer.vhd|
+R12
+R13
+!s100 gCMLJ;8LHaZZi_;hT9TLC2
+!i10b 1
+Aarchitec
+R3
+R4
+DEx4 work 11 multiplexer 0 22 ALBBlZ_15h9MF4X<l3kCY1
+l19
+L18
+VJ=?V>ej@ojmZ2G1XTQDPX1
+R8
+31
+R29
+R30
+R31
+R12
+R13
+!s100 b;5f2QZ9>GknU6OVzW=H>0
+!i10b 1
+Eorr
+Z32 w1557600636
+R2
+R3
+R4
+R5
+Z33 8C:/Users/ASUS/Desktop/TPKS/LAB_8/orr.vhd
+Z34 FC:/Users/ASUS/Desktop/TPKS/LAB_8/orr.vhd
+l0
+L5
+VKO4?zlhdWAUD:?@7WUSS?3
+R8
+31
+Z35 !s108 1559173007.518000
+Z36 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/orr.vhd|
+Z37 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/orr.vhd|
+R12
+R13
+!s100 ^:U^29>W0U1jJD[loWXQ73
+!i10b 1
+Aarchitec_orr
+R2
+R3
+R4
+DEx4 work 3 orr 0 22 KO4?zlhdWAUD:?@7WUSS?3
+l16
+L15
+V:RVaZD^2M5T0c[b;7@=zE0
+R8
+31
+R35
+R36
+R37
+R12
+R13
+!s100 lQOAHm[ZB>0]6_DXXHh5V1
+!i10b 1
+Eprogramm
+Z38 w1559172911
+R3
+R4
+R5
+Z39 8C:/Users/ASUS/Desktop/TPKS/LAB_8/programm.vhd
+Z40 FC:/Users/ASUS/Desktop/TPKS/LAB_8/programm.vhd
+l0
+L4
+V1:72z3hXU1T@m6oaVBf@R3
+R8
+31
+Z41 !s108 1559173005.326000
+Z42 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/programm.vhd|
+Z43 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/programm.vhd|
+R12
+R13
+!s100 8E682BNKgRG1U9kNH8<=o2
+!i10b 1
+Aar_x
+R3
+R4
+DEx4 work 8 programm 0 22 1:72z3hXU1T@m6oaVBf@R3
+l77
+L16
+V<P_<5LbKYOhdf>ZYnG@Dn3
+R8
+31
+R41
+R42
+R43
+R12
+R13
+!s100 WEM_GD[d9hlGkhREg7Gl40
+!i10b 1
+Eprogramm_tb
+Z44 w1559172914
+R2
+R3
+R4
+R5
+Z45 8C:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd
+Z46 FC:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd
+l0
+L5
+VdAdB_nJM9O;:lHP>:7RCf1
+!s100 cJ`?PjGgS>AVJP=MNlD7[1
+R8
+31
+!i10b 1
+Z47 !s108 1559173011.187000
+Z48 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd|
+Z49 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd|
+R12
+R13
+Abehavior
+R2
+R3
+R4
+DEx4 work 11 programm_tb 0 22 dAdB_nJM9O;:lHP>:7RCf1
+l26
+L11
+V1Mk;E`mFdm66df^cmc:zU2
+!s100 8SAh[XPa8138Gj^U@PZkH2
+R8
+31
+!i10b 1
+R47
+R48
+R49
+R12
+R13
+Ering_shear
+Z50 w1557609819
+Z51 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z52 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R3
+R4
+R5
+Z53 8C:/Users/ASUS/Desktop/TPKS/LAB_8/ring_shear.vhd
+Z54 FC:/Users/ASUS/Desktop/TPKS/LAB_8/ring_shear.vhd
+l0
+L6
+V2DmZzNHe8SKKU_[fNd2KI1
+R8
+31
+Z55 !s108 1559173010.201000
+Z56 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/ring_shear.vhd|
+Z57 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/ring_shear.vhd|
+R12
+R13
+!s100 0gNdTgZ`4hoaaomX4O5K[1
+!i10b 1
+Aarchitec_ring_shear
+R51
+R52
+R3
+R4
+DEx4 work 10 ring_shear 0 22 2DmZzNHe8SKKU_[fNd2KI1
+l14
+L13
+Vb=4RGVS6ccnb]PV1JQIck2
+R8
+31
+R55
+R56
+R57
+R12
+R13
+!s100 :N?PV@AHzGJH=YPXnHY1X3
+!i10b 1

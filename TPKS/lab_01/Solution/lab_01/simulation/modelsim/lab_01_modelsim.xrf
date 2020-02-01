@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ASUS/Desktop/TPKS/lab_01/Solution/lab_01/lab_01.vhd
+source_file = 1, C:/Users/ASUS/Desktop/TPKS/lab_01/Solution/lab_01/lab_01_tb.vhd
+source_file = 1, C:/Users/ASUS/Desktop/TPKS/lab_01/Solution/lab_01/db/lab_01.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = lab_01
+instance = comp, \x2~I\, x2, lab_01, 1
+instance = comp, \x3~I\, x3, lab_01, 1
+instance = comp, \x4~I\, x4, lab_01, 1
+instance = comp, \x5~I\, x5, lab_01, 1
+instance = comp, \x1~I\, x1, lab_01, 1
+instance = comp, \y~0\, y~0, lab_01, 1
+instance = comp, \y~1\, y~1, lab_01, 1
+instance = comp, \y~I\, y, lab_01, 1

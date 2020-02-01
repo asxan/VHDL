@@ -1,0 +1,299 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Veronika\Desktop\AE\LAB_8\simulation\modelsim
+Eadd
+Z1 w1557421822
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Veronika\Desktop\AE\LAB_8\simulation\modelsim
+Z6 8C:/Users/Veronika/Desktop/AE/LAB_8/add.vhd
+Z7 FC:/Users/Veronika/Desktop/AE/LAB_8/add.vhd
+l0
+L5
+Vzl[n<YJSeG[n]0Y3PFhlc1
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1557495009.712000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/add.vhd|
+Z11 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/add.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 W_Uj3ID<`@;3k<@^;3=bm3
+!i10b 1
+Aar_add
+R2
+R3
+R4
+DEx4 work 3 add 0 22 zl[n<YJSeG[n]0Y3PFhlc1
+l16
+L15
+VmHAQO`h4mCW3DDR]c3:2Q2
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 Z2b=OD1NE3[OK]lY3cfL73
+!i10b 1
+Eandd
+Z14 w1557431294
+R2
+R3
+R4
+R5
+Z15 8C:/Users/Veronika/Desktop/AE/LAB_8/andd.vhd
+Z16 FC:/Users/Veronika/Desktop/AE/LAB_8/andd.vhd
+l0
+L5
+Vn^jLBA67I4Vk5X>H9Ak?80
+R8
+31
+Z17 !s108 1557495008.693000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/andd.vhd|
+Z19 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/andd.vhd|
+R12
+R13
+!s100 DAKMdMN?G5?]Glg4VNPJM0
+!i10b 1
+Aar_andd
+R2
+R3
+R4
+DEx4 work 4 andd 0 22 n^jLBA67I4Vk5X>H9Ak?80
+l16
+L15
+V7:n`2ClVU7[2X>4@CkN@E2
+R8
+31
+R17
+R18
+R19
+R12
+R13
+!s100 2eLbRo9UnUO[Qf;diV];21
+!i10b 1
+Eb2
+Z20 w1557489595
+R3
+R4
+R5
+Z21 8C:/Users/Veronika/Desktop/AE/LAB_8/b2.vhd
+Z22 FC:/Users/Veronika/Desktop/AE/LAB_8/b2.vhd
+l0
+L3
+V<jl<ElSC`bV:Tm`OWQO4V1
+R8
+31
+Z23 !s108 1557495010.638000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/b2.vhd|
+Z25 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/b2.vhd|
+R12
+R13
+!s100 @A2eM?lNobSLoF5R89Ub>2
+!i10b 1
+Aarch
+R3
+R4
+DEx4 work 2 b2 0 22 <jl<ElSC`bV:Tm`OWQO4V1
+l19
+L18
+V?_QZV<[0YFZ:`>kdJb07z0
+R8
+31
+R23
+R24
+R25
+R12
+R13
+!s100 =Wbe9`1FS=c6KU9MddAVX2
+!i10b 1
+Einc
+Z26 w1557430979
+R2
+R3
+R4
+R5
+Z27 8C:/Users/Veronika/Desktop/AE/LAB_8/inc.vhd
+Z28 FC:/Users/Veronika/Desktop/AE/LAB_8/inc.vhd
+l0
+L5
+V?QOhFA9YBZ<ZRFbH2Bo0n0
+R8
+31
+Z29 !s108 1557495008.154000
+Z30 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/inc.vhd|
+Z31 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/inc.vhd|
+R12
+R13
+!s100 DZdI]Nj^MPCkV2IVVk]<;0
+!i10b 1
+Aar_inc
+R2
+R3
+R4
+DEx4 work 3 inc 0 22 ?QOhFA9YBZ<ZRFbH2Bo0n0
+l15
+L14
+VE2b_f`A<DOEElBVK:GEXf1
+R8
+31
+R29
+R30
+R31
+R12
+R13
+!s100 ehmi0iHWhT0XQUBjaSCX]1
+!i10b 1
+Epow
+Z32 w1557432370
+Z33 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z34 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R3
+R4
+R5
+Z35 8C:/Users/Veronika/Desktop/AE/LAB_8/Pow.vhd
+Z36 FC:/Users/Veronika/Desktop/AE/LAB_8/Pow.vhd
+l0
+L6
+VTCOl:C:GC@aF0h[P>Ij740
+R8
+31
+Z37 !s108 1557495010.224000
+Z38 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/Pow.vhd|
+Z39 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/Pow.vhd|
+R12
+R13
+!s100 <iVgegegICMX<TdnOXNkT3
+!i10b 1
+Aarh
+R33
+R34
+R3
+R4
+DEx4 work 3 pow 0 22 TCOl:C:GC@aF0h[P>Ij740
+l14
+L13
+VUJcH6k`g4Z_8a6A[<bYDe1
+R8
+31
+R37
+R38
+R39
+R12
+R13
+!s100 NC1fkLlbS8hREdecNSjdl1
+!i10b 1
+Eprogramm
+Z40 w1557430165
+R3
+R4
+R5
+Z41 8C:/Users/Veronika/Desktop/AE/LAB_8/programm.vhd
+Z42 FC:/Users/Veronika/Desktop/AE/LAB_8/programm.vhd
+l0
+L4
+V1:72z3hXU1T@m6oaVBf@R3
+R8
+31
+Z43 !s108 1557495011.051000
+Z44 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/programm.vhd|
+Z45 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/programm.vhd|
+R12
+R13
+!s100 8E682BNKgRG1U9kNH8<=o2
+!i10b 1
+Aar_x
+R3
+R4
+DEx4 work 8 programm 0 22 1:72z3hXU1T@m6oaVBf@R3
+l78
+L16
+VgdSRcb2DmhWZACW6:ilU50
+R8
+31
+R43
+R44
+R45
+R12
+R13
+!s100 S2S5DDKIVn_90a:ASR1?c1
+!i10b 1
+Eprogramm_tb
+Z46 w1557431889
+R2
+R3
+R4
+R5
+Z47 8C:/Users/Veronika/Desktop/AE/LAB_8/programm_tb.vhd
+Z48 FC:/Users/Veronika/Desktop/AE/LAB_8/programm_tb.vhd
+l0
+L5
+VdAdB_nJM9O;:lHP>:7RCf1
+!s100 cJ`?PjGgS>AVJP=MNlD7[1
+R8
+31
+!i10b 1
+Z49 !s108 1557495011.466000
+Z50 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/programm_tb.vhd|
+Z51 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/programm_tb.vhd|
+R12
+R13
+Abehavior
+R2
+R3
+R4
+DEx4 work 11 programm_tb 0 22 dAdB_nJM9O;:lHP>:7RCf1
+l26
+L11
+V1Mk;E`mFdm66df^cmc:zU2
+!s100 8SAh[XPa8138Gj^U@PZkH2
+R8
+31
+!i10b 1
+R49
+R50
+R51
+R12
+R13
+Exorr
+R14
+R2
+R3
+R4
+R5
+Z52 8C:/Users/Veronika/Desktop/AE/LAB_8/xorr.vhd
+Z53 FC:/Users/Veronika/Desktop/AE/LAB_8/xorr.vhd
+l0
+L5
+VA_PGTL]9o`dAXLdjOj?_;3
+R8
+31
+Z54 !s108 1557495009.271000
+Z55 !s90 -reportprogress|300|-93|-work|work|C:/Users/Veronika/Desktop/AE/LAB_8/xorr.vhd|
+Z56 !s107 C:/Users/Veronika/Desktop/AE/LAB_8/xorr.vhd|
+R12
+R13
+!s100 Ldi=d`zHfObG8<1;T<b8W3
+!i10b 1
+Aar_xorr
+R2
+R3
+R4
+DEx4 work 4 xorr 0 22 A_PGTL]9o`dAXLdjOj?_;3
+l16
+L15
+VF6GMWhNodVHlmnKgiZNU;0
+R8
+31
+R54
+R55
+R56
+R12
+R13
+!s100 eYGh=IH]n4A>KGeGILlRa2
+!i10b 1

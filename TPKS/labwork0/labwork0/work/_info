@@ -1,0 +1,129 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\y.fesenko\Desktop
+Eadd1
+Z0 w1547707694
+Z1 dC:\Users\y.fesenko\Desktop\labwork0
+Z2 8C:/Users/y.fesenko/Desktop/add1.vhd
+Z3 FC:/Users/y.fesenko/Desktop/add1.vhd
+l0
+L1
+VQ[S60IZTCM<LHKOGRm6h01
+Z4 OV;C;10.1d;51
+32
+Z5 !s108 1547710683.749000
+Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/y.fesenko/Desktop/add1.vhd|
+Z7 !s107 C:/Users/y.fesenko/Desktop/add1.vhd|
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+!s100 mS4=bXC5?V^Y5mi2TmGeh0
+!i10b 1
+Astruct_1
+DEx4 work 4 add1 0 22 Q[S60IZTCM<LHKOGRm6h01
+l6
+L5
+VgNd@eNQAd@hm7BC1YIQUJ1
+R4
+32
+R5
+R6
+R7
+R8
+R9
+!s100 ;Z^^kWD>IC1O3ZeiB]j;`3
+!i10b 1
+Efulladder
+Z10 w1547710183
+R1
+Z11 8C:/Users/y.fesenko/Desktop/fullAdder.vhd
+Z12 FC:/Users/y.fesenko/Desktop/fullAdder.vhd
+l0
+L1
+V^Z^G_ka`YHH8Ga8BIP@k_2
+R4
+32
+Z13 !s108 1547710859.158000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/y.fesenko/Desktop/fullAdder.vhd|
+Z15 !s107 C:/Users/y.fesenko/Desktop/fullAdder.vhd|
+R8
+R9
+!s100 EXmS5U=c0?T>9AnHL6kL43
+!i10b 1
+Astruct_1
+DEx4 work 9 fulladder 0 22 ^Z^G_ka`YHH8Ga8BIP@k_2
+l6
+L5
+VVEeCzLIc8jKnBhHAlQL;Q0
+!s100 hoB1[LM9PLmkR:62<eMMe1
+R4
+32
+R13
+R14
+R15
+R8
+R9
+!i10b 1
+Etest_add1
+Z16 w1547707696
+R1
+Z17 8C:/Users/y.fesenko/Desktop/test_add1.vhd
+Z18 FC:/Users/y.fesenko/Desktop/test_add1.vhd
+l0
+L1
+VVjYE9Ujh:nPhk^W[aQZz@2
+R4
+32
+Z19 !s108 1547710683.859000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/y.fesenko/Desktop/test_add1.vhd|
+Z21 !s107 C:/Users/y.fesenko/Desktop/test_add1.vhd|
+R8
+R9
+!s100 G>E3F_DVLVURABj[QECS12
+!i10b 1
+Abehavior
+DEx4 work 9 test_add1 0 22 VjYE9Ujh:nPhk^W[aQZz@2
+l10
+L3
+VzzBI<_kW2dPf<77]2R44^0
+R4
+32
+R19
+R20
+R21
+R8
+R9
+!s100 <Q^WZ^R4kYkfP7WS1N<m[3
+!i10b 1
+Etestbench
+Z22 w1547710847
+R1
+Z23 8C:/Users/y.fesenko/Desktop/testbench.vhd
+Z24 FC:/Users/y.fesenko/Desktop/testbench.vhd
+l0
+L1
+V1?l6hD<GmcXY24:W6BBZQ1
+!s100 AdLS85Z]db1`SnOTKYO7C2
+R4
+32
+!i10b 1
+Z25 !s108 1547710859.299000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/y.fesenko/Desktop/testbench.vhd|
+Z27 !s107 C:/Users/y.fesenko/Desktop/testbench.vhd|
+R8
+R9
+Abehavior
+DEx4 work 9 testbench 0 22 1?l6hD<GmcXY24:W6BBZQ1
+l10
+L3
+V0oVWRz]GmiZC8AKS1cIFd2
+!s100 AXRmaiVVoERB9B<[3`aQ42
+R4
+32
+!i10b 1
+R25
+R26
+R27
+R8
+R9

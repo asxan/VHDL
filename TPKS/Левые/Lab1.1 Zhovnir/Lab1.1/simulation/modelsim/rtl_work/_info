@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\v.zhovnir\Desktop\Lab1.1\simulation\modelsim
+Elab1
+Z1 w1550126196
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\v.zhovnir\Desktop\Lab1.1\simulation\modelsim
+Z5 8C:/Users/v.zhovnir/Desktop/Lab1.1/Lab1.vhd
+Z6 FC:/Users/v.zhovnir/Desktop/Lab1.1/Lab1.vhd
+l0
+L4
+VPYO7IFmY>EaSBGV2]CKCG3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1550130249.022000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/v.zhovnir/Desktop/Lab1.1/Lab1.vhd|
+Z10 !s107 C:/Users/v.zhovnir/Desktop/Lab1.1/Lab1.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 `23Kbo5>2`X;7?jfO`04=2
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 4 lab1 0 22 PYO7IFmY>EaSBGV2]CKCG3
+l19
+L16
+VLcePnFkk9kH<58zgEFba<3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 E22PV0:[ZTQI7d3RdFG=]3
+!i10b 1
+Elab1_tb
+Z13 w1550130193
+R2
+R3
+R4
+Z14 8C:/Users/v.zhovnir/Desktop/Lab1.1/Lab1_Tb.vhd
+Z15 FC:/Users/v.zhovnir/Desktop/Lab1.1/Lab1_Tb.vhd
+l0
+L4
+VMI:[c3K_8DSRb[bEZQNzA0
+!s100 L0<ScHAQ:Uk`a5`TU^VlX0
+R7
+31
+!i10b 1
+Z16 !s108 1550130249.132000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/v.zhovnir/Desktop/Lab1.1/Lab1_Tb.vhd|
+Z18 !s107 C:/Users/v.zhovnir/Desktop/Lab1.1/Lab1_Tb.vhd|
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 7 lab1_tb 0 22 MI:[c3K_8DSRb[bEZQNzA0
+l23
+L12
+V^dPHSm^@60B7ej=9]GXJh0
+!s100 2FLQcL9gSX?g8jBK:e7P93
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

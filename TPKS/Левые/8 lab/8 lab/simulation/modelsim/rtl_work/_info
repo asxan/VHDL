@@ -1,0 +1,112 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Studing\2 course\2 semester\TPKS\8 lab\simulation\modelsim
+Ealu_n
+Z1 w1557500319
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dE:\Studing\2 course\2 semester\TPKS\8 lab\simulation\modelsim
+Z5 8E:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N.vhd
+Z6 FE:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N.vhd
+l0
+L4
+VieG[FWM]7^]6@kDV8gi6Z3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1557501292.446000
+Z9 !s90 -reportprogress|300|-93|-work|work|E:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N.vhd|
+Z10 !s107 E:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 ^zgQ:AmYBY_E9`Q8_onKU1
+!i10b 1
+Aalu_n_architecture
+R2
+R3
+DEx4 work 5 alu_n 0 22 ieG[FWM]7^]6@kDV8gi6Z3
+l30
+L16
+VU:A=PLmiJDQ=LVHGH8H8T1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 lJWcW2FMAMFWFF`XTF61h0
+!i10b 1
+Ealu_n_tb
+Z13 w1557500804
+R2
+R3
+R4
+Z14 8E:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N_tb.vhd
+Z15 FE:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N_tb.vhd
+l0
+L4
+VfN=<]`D=;NO?KMJW`7XJ62
+!s100 SMm5hJ_?l2f6_@oX9=>_E2
+R7
+31
+!i10b 1
+Z16 !s108 1557501292.905000
+Z17 !s90 -reportprogress|300|-93|-work|work|E:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N_tb.vhd|
+Z18 !s107 E:/Studing/2 course/2 semester/TPKS/8 lab/ALU_N_tb.vhd|
+R11
+R12
+Aalu_n_tb_arch
+R2
+R3
+DEx4 work 8 alu_n_tb 0 22 fN=<]`D=;NO?KMJW`7XJ62
+l29
+L9
+VSoIila=IkIS;D8kmS`fW23
+!s100 4i2z`W?5nnzXc`4[:g6]h2
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
+Earithmeticunit
+Z19 w1557500802
+Z20 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z21 8E:/Studing/2 course/2 semester/TPKS/8 lab/ArithmeticUnit.vhd
+Z22 FE:/Studing/2 course/2 semester/TPKS/8 lab/ArithmeticUnit.vhd
+l0
+L5
+VXU`L?8K5lLJgEb^NYgcGO3
+R7
+31
+Z23 !s108 1557501291.930000
+Z24 !s90 -reportprogress|300|-93|-work|work|E:/Studing/2 course/2 semester/TPKS/8 lab/ArithmeticUnit.vhd|
+Z25 !s107 E:/Studing/2 course/2 semester/TPKS/8 lab/ArithmeticUnit.vhd|
+R11
+R12
+!s100 Yb:ohPlaSIToZj@j324SZ3
+!i10b 1
+Aarithmeticunit_architecture
+R20
+R2
+R3
+DEx4 work 14 arithmeticunit 0 22 XU`L?8K5lLJgEb^NYgcGO3
+l18
+L17
+VnK7ACLBn[6l]NhVl@ROVG2
+R7
+31
+R23
+R24
+R25
+R11
+R12
+!s100 G6E0kHJYc5c5;VC7U2BJ11
+!i10b 1

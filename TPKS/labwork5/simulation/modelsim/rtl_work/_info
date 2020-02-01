@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\Desktop\TPKS\labwork5\simulation\modelsim
+Echange
+Z1 w1558471950
+Z2 DPx4 work 3 mas 0 22 Zf1E>0gciz>Mj1>6>e_Ji2
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\ASUS\Desktop\TPKS\labwork5\simulation\modelsim
+Z7 8C:/Users/ASUS/Desktop/TPKS/labwork5/Change.vhd
+Z8 FC:/Users/ASUS/Desktop/TPKS/labwork5/Change.vhd
+l0
+L6
+V`EPHE:dNW<LMz1b;m4]Ol3
+Z9 OV;C;10.1d;51
+33
+Z10 !s108 1559386025.280000
+Z11 !s90 -reportprogress|300|-2008|-work|work|C:/Users/ASUS/Desktop/TPKS/labwork5/Change.vhd|
+Z12 !s107 C:/Users/ASUS/Desktop/TPKS/labwork5/Change.vhd|
+Z13 o-2008 -work work -O0
+Z14 tExplicit 1
+!s100 <:TSfng581][m^:df9`D?3
+!i10b 1
+Abeh
+R2
+R3
+R4
+R5
+DEx4 work 6 change 0 22 `EPHE:dNW<LMz1b;m4]Ol3
+l48
+L18
+Va?4BCjTbY[Pa38R[beTkO2
+R9
+33
+R10
+R11
+R12
+R13
+R14
+!s100 >ZF[A`9IeocDZU5>Q?0fH3
+!i10b 1
+Pmas
+R3
+R4
+R5
+w1558471418
+R6
+8C:/Users/ASUS/Desktop/TPKS/labwork5/mas.vhd
+FC:/Users/ASUS/Desktop/TPKS/labwork5/mas.vhd
+l0
+L5
+VZf1E>0gciz>Mj1>6>e_Ji2
+R9
+33
+R13
+R14
+!s100 jk5KQ7fBB:TbM>1zfJKh?2
+!i10b 1
+!s108 1559386024.812000
+!s90 -reportprogress|300|-2008|-work|work|C:/Users/ASUS/Desktop/TPKS/labwork5/mas.vhd|
+!s107 C:/Users/ASUS/Desktop/TPKS/labwork5/mas.vhd|
+Etestchange
+Z15 w1558472106
+R2
+R3
+R4
+R5
+R6
+Z16 8C:/Users/ASUS/Desktop/TPKS/labwork5/testChange.vhd
+Z17 FC:/Users/ASUS/Desktop/TPKS/labwork5/testChange.vhd
+l0
+L6
+VWC[SdSQz[J9aQ:ZHiijYK2
+!s100 CMhI7B>fAGKl1l:cGEC^Y0
+R9
+33
+!i10b 1
+Z18 !s108 1559386026.008000
+Z19 !s90 -reportprogress|300|-2008|-work|work|C:/Users/ASUS/Desktop/TPKS/labwork5/testChange.vhd|
+Z20 !s107 C:/Users/ASUS/Desktop/TPKS/labwork5/testChange.vhd|
+R13
+R14
+At
+R2
+R3
+R4
+R5
+DEx4 work 10 testchange 0 22 WC[SdSQz[J9aQ:ZHiijYK2
+l32
+L10
+VkA??3_S0nS9j;ldL0PM]o1
+!s100 O74Bl?WaV>M9:G4YgHKGY2
+R9
+33
+!i10b 1
+R18
+R19
+R20
+R13
+R14

@@ -1,0 +1,98 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\Desktop\TPKS\lab_02\Solution\lab_02_part_2\simulation\modelsim
+Elab_02_part_2
+Z1 w1554651538
+Z2 DPx4 work 21 lab_02_part_2_package 0 22 zSHgdSfD:5H^Fa^5Po^mL0
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\ASUS\Desktop\TPKS\lab_02\Solution\lab_02_part_2\simulation\modelsim
+Z6 8C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2.vhd
+Z7 FC:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2.vhd
+l0
+L5
+VSL93?L]f?JK6AM1j13c2X0
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1554652030.223000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2.vhd|
+Z11 !s107 C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 5<>haZ5Q3[h@zU3P770F91
+!i10b 1
+Alab_02_part_2_arch
+R2
+R3
+R4
+DEx4 work 13 lab_02_part_2 0 22 SL93?L]f?JK6AM1j13c2X0
+l11
+L10
+VkUJhOaA`C?do^Wd?A?`aT0
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 RQX[_El[HASMiTNbCN=PE2
+!i10b 1
+Plab_02_part_2_package
+R3
+R4
+w1552678788
+R5
+8C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_package.vhd
+FC:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_package.vhd
+l0
+L4
+VzSHgdSfD:5H^Fa^5Po^mL0
+R8
+31
+R12
+R13
+!s100 FHCzRjJJ9NhZg;cPGz;BN2
+!i10b 1
+!s108 1554652029.810000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_package.vhd|
+!s107 C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_package.vhd|
+Elab_02_part_2_tb
+Z14 w1552681876
+R2
+R3
+R4
+R5
+Z15 8C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_tb.vhd
+Z16 FC:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_tb.vhd
+l0
+L5
+V9m>ho@kC?LOlO47MAJ3Uo1
+!s100 ekSzD9SD6_0UJGb0P1zBk2
+R8
+31
+!i10b 1
+Z17 !s108 1554652031.002000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_tb.vhd|
+Z19 !s107 C:/Users/ASUS/Desktop/TPKS/lab_02/Solution/lab_02_part_2/lab_02_part_2_tb.vhd|
+R12
+R13
+Alab_02_part_2_tb_arch
+R2
+R3
+R4
+DEx4 work 16 lab_02_part_2_tb 0 22 9m>ho@kC?LOlO47MAJ3Uo1
+l16
+L8
+V7_o6=EJ`fRAHBXNe`RIfo1
+!s100 i79cfN]kX<YlK]2RV6EMn0
+R8
+31
+!i10b 1
+R17
+R18
+R19
+R12
+R13

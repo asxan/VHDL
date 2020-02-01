@@ -1,0 +1,23 @@
+git add .
+git commit -m "lab_01"
+git review
+
+git add .
+git commit --amend
+git review
+
+git reset --hard origin/master
+git add .
+git commit -m "lab_02"
+git review
+
+-----
+
+git review -d 1248
+git add .
+git commit --amend
+git review
+
+git checkout master
+git branch
+git branch -D name_of_your_branch

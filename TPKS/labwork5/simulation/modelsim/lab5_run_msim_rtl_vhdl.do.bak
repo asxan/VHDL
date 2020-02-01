@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -2008 -work work {I:/vhdl/Klimov/TPKS/5/mas.vhd}
+vcom -2008 -work work {I:/vhdl/Klimov/TPKS/5/Change.vhd}
+

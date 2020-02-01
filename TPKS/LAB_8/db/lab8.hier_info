@@ -1,0 +1,176 @@
+|programm
+un => multiplexer:m5.un
+bin[1] => multiplexer:m5.bin[1]
+bin[0] => multiplexer:m5.bin[0]
+a[3] => decriment:m0.a[3]
+a[3] => orr:m1.a[3]
+a[3] => addition:m2.a[3]
+a[3] => ring_shear:m3.a[3]
+a[3] => division:m4.a[3]
+a[2] => decriment:m0.a[2]
+a[2] => orr:m1.a[2]
+a[2] => addition:m2.a[2]
+a[2] => ring_shear:m3.a[2]
+a[2] => division:m4.a[2]
+a[1] => decriment:m0.a[1]
+a[1] => orr:m1.a[1]
+a[1] => addition:m2.a[1]
+a[1] => ring_shear:m3.a[1]
+a[1] => division:m4.a[1]
+a[0] => decriment:m0.a[0]
+a[0] => orr:m1.a[0]
+a[0] => addition:m2.a[0]
+a[0] => ring_shear:m3.a[0]
+a[0] => division:m4.a[0]
+b[3] => orr:m1.b[3]
+b[3] => addition:m2.b[3]
+b[3] => ring_shear:m3.b[3]
+b[3] => division:m4.b[3]
+b[2] => orr:m1.b[2]
+b[2] => addition:m2.b[2]
+b[2] => ring_shear:m3.b[2]
+b[2] => division:m4.b[2]
+b[1] => orr:m1.b[1]
+b[1] => addition:m2.b[1]
+b[1] => ring_shear:m3.b[1]
+b[1] => division:m4.b[1]
+b[0] => orr:m1.b[0]
+b[0] => addition:m2.b[0]
+b[0] => ring_shear:m3.b[0]
+b[0] => division:m4.b[0]
+c[4] <= multiplexer:m5.c[0]
+c[3] <= multiplexer:m5.c[1]
+c[2] <= multiplexer:m5.c[2]
+c[1] <= multiplexer:m5.c[3]
+c[0] <= multiplexer:m5.c[4]
+
+
+|programm|decriment:m0
+a[3] => Add0.IN8
+a[2] => Add0.IN7
+a[1] => Add0.IN6
+a[0] => Add0.IN5
+c[4] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[0] <= <GND>
+
+
+|programm|orr:m1
+a[3] => c.IN0
+a[2] => c.IN0
+a[1] => c.IN0
+a[0] => c.IN0
+b[3] => c.IN1
+b[2] => c.IN1
+b[1] => c.IN1
+b[0] => c.IN1
+c[4] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[0] <= <GND>
+
+
+|programm|addition:m2
+a[3] => Add0.IN4
+a[3] => LessThan0.IN8
+a[2] => Add0.IN3
+a[2] => LessThan0.IN7
+a[1] => Add0.IN2
+a[1] => LessThan0.IN6
+a[0] => Add0.IN1
+a[0] => LessThan0.IN5
+b[3] => Add0.IN8
+b[2] => Add0.IN7
+b[1] => Add0.IN6
+b[0] => Add0.IN5
+c[4] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c[0] <= LessThan0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|programm|ring_shear:m3
+a[3] => ShiftRight0.IN4
+a[2] => ShiftRight0.IN3
+a[1] => ShiftRight0.IN2
+a[0] => ShiftRight0.IN1
+b[3] => ShiftRight0.IN8
+b[2] => ShiftRight0.IN7
+b[1] => ShiftRight0.IN6
+b[0] => ShiftRight0.IN5
+c[4] <= ShiftRight0.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= ShiftRight0.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= ShiftRight0.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= ShiftRight0.DB_MAX_OUTPUT_PORT_TYPE
+c[0] <= <GND>
+
+
+|programm|division:m4
+a[3] => Div0.IN3
+a[2] => Div0.IN2
+a[1] => Div0.IN1
+a[0] => Div0.IN0
+b[3] => Equal0.IN7
+b[3] => Div0.IN7
+b[2] => Equal0.IN6
+b[2] => Div0.IN6
+b[1] => Equal0.IN5
+b[1] => Div0.IN5
+b[0] => Equal0.IN4
+b[0] => Div0.IN4
+c[4] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[0] <= <GND>
+
+
+|programm|multiplexer:m5
+un => c.IN1
+un => c.IN1
+un => c.IN1
+un => c.IN1
+bin[1] => Equal0.IN1
+bin[1] => Equal1.IN0
+bin[1] => Equal2.IN1
+bin[1] => Equal3.IN1
+bin[0] => Equal0.IN0
+bin[0] => Equal1.IN1
+bin[0] => Equal2.IN0
+bin[0] => Equal3.IN0
+res_decriment[4] => c.DATAB
+res_decriment[3] => c.DATAB
+res_decriment[2] => c.DATAB
+res_decriment[1] => c.DATAB
+res_decriment[0] => c.DATAB
+res_orr[4] => c.DATAB
+res_orr[3] => c.DATAB
+res_orr[2] => c.DATAB
+res_orr[1] => c.DATAB
+res_orr[0] => c.DATAB
+res_addition[4] => c.DATAB
+res_addition[3] => c.DATAB
+res_addition[2] => c.DATAB
+res_addition[1] => c.DATAB
+res_addition[0] => c.DATAB
+res_ring_shear[4] => c.DATAB
+res_ring_shear[3] => c.DATAB
+res_ring_shear[2] => c.DATAB
+res_ring_shear[1] => c.DATAB
+res_ring_shear[0] => c.DATAB
+res_division[4] => c.DATAA
+res_division[3] => c.DATAA
+res_division[2] => c.DATAA
+res_division[1] => c.DATAA
+res_division[0] => c.DATAA
+c[0] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= c.DB_MAX_OUTPUT_PORT_TYPE
+c[4] <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+

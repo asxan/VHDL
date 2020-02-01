@@ -1,0 +1,13 @@
+|Automat
+clk => state~4.DATAIN
+a => state.DATAB
+a => state.DATAB
+reset => state~6.DATAIN
+output[0] <= output.DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= output[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= output[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= <GND>
+output[4] <= <GND>
+output[5] <= output[5].DB_MAX_OUTPUT_PORT_TYPE
+
+

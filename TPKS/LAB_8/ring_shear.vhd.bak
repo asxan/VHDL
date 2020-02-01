@@ -1,0 +1,19 @@
+LIBRARY IEEE;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.std_logic_arith.all;
+
+entity ring_shear IS 
+  port ( a : in std_logic_vector (0 to 3);
+         b : in std_logic_vector(0 to 3);
+         c : out std_logic_vector(0 to 4)
+		 ); 
+end entity;
+
+architecture architec_ring_shear OF ring_shear is
+begin
+  process (a, b)
+  begin
+    c<=shr(a,b);
+  end process;
+end architecture architec_ring_shear;

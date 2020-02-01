@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use work.mas.all;
+
+entity testChange is
+
+end entity;
+
+architecture t of testChange is
+	component Change is
+		generic(N : integer := 8);
+		port(
+			clk : in std_logic;
+			QP : out m(N - 1 downto 0);
+			QF : out m(N - 1 downto 0);
+			D : in m(N - 1 downto 0);
+			CountF : out integer;
+			CountP : out integer
+		);
+	end component;
+	
+begin
+
+end architecture t;

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\Desktop\TPKS\LAB_8\simulation\modelsim
+Eprogramm
+Z1 w1557952015
+Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z3 DPx9 cycloneii 19 cycloneii_atom_pack 0 22 zUjlM<IUJVWSWg:L2<>ic3
+Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 DPx9 cycloneii 20 cycloneii_components 0 22 h@gSJ;Al32oYg[7^PbnAR0
+Z8 dC:\Users\ASUS\Desktop\TPKS\LAB_8\simulation\modelsim
+Z9 8lab8.vho
+Z10 Flab8.vho
+l0
+L34
+VYDL=JFOBPPE3nz2nN[=JG1
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1557952235.723000
+Z13 !s90 -reportprogress|300|-93|-work|work|lab8.vho|
+Z14 !s107 lab8.vho|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 TX`kd6Ka764;=Uj1j94<m3
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 8 programm 0 22 YDL=JFOBPPE3nz2nN[=JG1
+l145
+L63
+VE@nHOc2ed=MiWZZE]b0S11
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 dcNBK;9J@fYU`L;?Z0jJm3
+!i10b 1
+Eprogramm_tb
+Z17 w1557431889
+Z18 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R5
+R6
+R8
+Z19 8C:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd
+Z20 FC:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd
+l0
+L5
+VdAdB_nJM9O;:lHP>:7RCf1
+!s100 cJ`?PjGgS>AVJP=MNlD7[1
+R11
+31
+!i10b 1
+Z21 !s108 1557952236.450000
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd|
+Z23 !s107 C:/Users/ASUS/Desktop/TPKS/LAB_8/programm_tb.vhd|
+R15
+R16
+Abehavior
+R18
+R5
+R6
+DEx4 work 11 programm_tb 0 22 dAdB_nJM9O;:lHP>:7RCf1
+l26
+L11
+V1Mk;E`mFdm66df^cmc:zU2
+!s100 8SAh[XPa8138Gj^U@PZkH2
+R11
+31
+!i10b 1
+R21
+R22
+R23
+R15
+R16

@@ -1,0 +1,135 @@
+Flow report for lab6
+Sat Jun 22 22:17:59 2019
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++--------------------------------------------------------------------------------------+
+; Flow Summary                                                                         ;
++------------------------------------+-------------------------------------------------+
+; Flow Status                        ; Successful - Sat Jun 22 22:17:59 2019           ;
+; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
+; Revision Name                      ; lab6                                            ;
+; Top-level Entity Name              ; Change                                          ;
+; Family                             ; Cyclone II                                      ;
+; Total logic elements               ; 274 / 68,416 ( < 1 % )                          ;
+;     Total combinational functions  ; 274 / 68,416 ( < 1 % )                          ;
+;     Dedicated logic registers      ; 262 / 68,416 ( < 1 % )                          ;
+; Total registers                    ; 262                                             ;
+; Total pins                         ; 577 / 622 ( 93 % )                              ;
+; Total virtual pins                 ; 0                                               ;
+; Total memory bits                  ; 0 / 1,152,000 ( 0 % )                           ;
+; Embedded Multiplier 9-bit elements ; 0 / 300 ( 0 % )                                 ;
+; Total PLLs                         ; 0 / 4 ( 0 % )                                   ;
+; Device                             ; EP2C70F896C6                                    ;
+; Timing Models                      ; Final                                           ;
++------------------------------------+-------------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 06/22/2019 22:16:48 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; lab6                ;
++-------------------+---------------------+
+
+
++----------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                     ;
++--------------------------------------+--------------------------------+---------------+-------------+----------------+
+; Assignment Name                      ; Value                          ; Default Value ; Entity Name ; Section Id     ;
++--------------------------------------+--------------------------------+---------------+-------------+----------------+
+; COMPILER_SIGNATURE_ID                ; 48710646033838.156123100709044 ; --            ; --          ; --             ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                             ; --            ; --          ; testChange     ;
+; EDA_NATIVELINK_SIMULATION_TEST_BENCH ; testChange                     ; --            ; --          ; eda_simulation ;
+; EDA_OUTPUT_DATA_FORMAT               ; Vhdl                           ; --            ; --          ; eda_simulation ;
+; EDA_SIMULATION_TOOL                  ; ModelSim-Altera (VHDL)         ; <None>        ; --          ; --             ;
+; EDA_TEST_BENCH_ENABLE_STATUS         ; TEST_BENCH_MODE                ; --            ; --          ; eda_simulation ;
+; EDA_TEST_BENCH_FILE                  ; testChange.vhd                 ; --            ; --          ; testChange     ;
+; EDA_TEST_BENCH_MODULE_NAME           ; testChange                     ; --            ; --          ; testChange     ;
+; EDA_TEST_BENCH_NAME                  ; testChange                     ; --            ; --          ; eda_simulation ;
+; EDA_TEST_BENCH_RUN_SIM_FOR           ; 100 ps                         ; --            ; --          ; testChange     ;
+; PARTITION_COLOR                      ; 16764057                       ; --            ; Change      ; Top            ;
+; PARTITION_FITTER_PRESERVATION_LEVEL  ; PLACEMENT_AND_ROUTING          ; --            ; Change      ; Top            ;
+; PARTITION_NETLIST_TYPE               ; SOURCE                         ; --            ; Change      ; Top            ;
+; PROJECT_OUTPUT_DIRECTORY             ; output_files                   ; --            ; --          ; --             ;
+; TOP_LEVEL_ENTITY                     ; Change                         ; lab6          ; --          ; --             ;
+; VHDL_INPUT_VERSION                   ; VHDL_2008                      ; VHDL_1993     ; --          ; --             ;
+; VHDL_SHOW_LMF_MAPPING_MESSAGES       ; Off                            ; --            ; --          ; --             ;
++--------------------------------------+--------------------------------+---------------+-------------+----------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                             ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis      ; 00:00:06     ; 1.0                     ; 4651 MB             ; 00:00:06                           ;
+; Fitter                    ; 00:00:35     ; 1.0                     ; 5031 MB             ; 00:00:34                           ;
+; Assembler                 ; 00:00:10     ; 1.0                     ; 4582 MB             ; 00:00:09                           ;
+; TimeQuest Timing Analyzer ; 00:00:09     ; 1.0                     ; 4581 MB             ; 00:00:04                           ;
+; EDA Netlist Writer        ; 00:00:03     ; 1.0                     ; 4547 MB             ; 00:00:02                           ;
+; Total                     ; 00:01:03     ; --                      ; --                  ; 00:00:55                           ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                        ;
++---------------------------+------------------+-----------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name   ; OS Version ; Processor type ;
++---------------------------+------------------+-----------+------------+----------------+
+; Analysis & Synthesis      ; DESKTOP-9DL6KLC  ; Windows 7 ; 6.2        ; x86_64         ;
+; Fitter                    ; DESKTOP-9DL6KLC  ; Windows 7 ; 6.2        ; x86_64         ;
+; Assembler                 ; DESKTOP-9DL6KLC  ; Windows 7 ; 6.2        ; x86_64         ;
+; TimeQuest Timing Analyzer ; DESKTOP-9DL6KLC  ; Windows 7 ; 6.2        ; x86_64         ;
+; EDA Netlist Writer        ; DESKTOP-9DL6KLC  ; Windows 7 ; 6.2        ; x86_64         ;
++---------------------------+------------------+-----------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off lab6 -c lab6
+quartus_fit --read_settings_files=off --write_settings_files=off lab6 -c lab6
+quartus_asm --read_settings_files=off --write_settings_files=off lab6 -c lab6
+quartus_sta lab6 -c lab6
+quartus_eda --read_settings_files=off --write_settings_files=off lab6 -c lab6
+
+
+

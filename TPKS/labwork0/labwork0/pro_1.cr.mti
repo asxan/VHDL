@@ -1,0 +1,7 @@
+C:/Users/y.fesenko/Desktop/fullAdder.vhd {1 {vcom -work work -2002 -explicit C:/Users/y.fesenko/Desktop/fullAdder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity fullAdder
+-- Compiling architecture struct_1 of fullAdder
+
+} {} {}}
